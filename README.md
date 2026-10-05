@@ -1,5 +1,9 @@
-# dsa-python-practice
+# DSA Python Practice
 
-🚀✨ Learning DSA in Python, one problem at a time. Clean code with approach notes.💻
+My Python solutions to DSA problems.
 
-•contains_duplicate.py
+## Problems Solved
+1. Contains Duplicate 
+
+## Language
+Python
