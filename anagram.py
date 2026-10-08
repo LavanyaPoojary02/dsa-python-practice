@@ -3,4 +3,4 @@ def isAnagram(s,t):
 print(isAnagram("listen","silent"))
 print(isAnagram("cat","car"))
 print(isAnagram("night", "thing"))
-
+print(isAnagram("right", "fight"))
