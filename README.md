@@ -6,7 +6,8 @@ My Python solutions to DSA problems.
 1. Contains Duplicate
 2. Checking Palindrome
 3. Anagram
-4. Reverse String 
+4. Reverse String
+5. Max Number 
 
 ## Language
 Python
