@@ -7,7 +7,8 @@ My Python solutions to DSA problems.
 2. Checking Palindrome
 3. Anagram
 4. Reverse String
-5. Max Number 
+5. Max Number
+6. Minimum Number 
 
 ## Language
 Python
