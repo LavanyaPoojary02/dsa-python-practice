@@ -8,7 +8,8 @@ My Python solutions to DSA problems.
 3. Anagram
 4. Reverse String
 5. Max Number
-6. Minimum Number 
+6. Minimum Number
+7. Second Largest 
 
 ## Language
 Python
