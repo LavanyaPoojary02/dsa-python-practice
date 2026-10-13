@@ -1,0 +1,11 @@
+def secondLargest(nums):
+	biggest=nums[0]
+	second=0
+	for num in nums:
+		if num>biggest:
+			second=biggest
+			biggest=num
+		elif num>second:
+			second=num
+	return second
+print(secondLargest([3,7,9])
