@@ -9,7 +9,7 @@ My Python solutions to DSA problems.
 4. Reverse String
 5. Max Number
 6. Minimum Number
-7. Second Largest 
+7. Second Largest Number 
 
 ## Language
 Python
