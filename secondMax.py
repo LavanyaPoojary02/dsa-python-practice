@@ -1,3 +1,5 @@
+#Second Maximum Number 
+
 def secondLargest(nums):
 	biggest=nums[0]
 	second=0
