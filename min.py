@@ -1,3 +1,5 @@
+#Minimum Number 
+
 def isMin(nums):
 	smallest=nums[0]
 	for num in nums:
