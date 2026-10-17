@@ -1,3 +1,5 @@
+#Palindrom
+
 def isPalidrom(s):
 	rev=s[::-1]
 	return s==rev
