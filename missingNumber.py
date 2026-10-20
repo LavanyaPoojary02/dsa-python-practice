@@ -4,3 +4,4 @@ def missingNumber(nums):
 	actual = sum(nums)
 	return expected-actual
 print(missingNumber([3,0,1]))
+print(missingNumber([1,0,3]))
