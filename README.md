@@ -4,14 +4,15 @@ My Python solutions to DSA problems🛜.
 
 ## Problems Solved
 1. Contains Duplicate
-2. Checking Palindrome
-3. Anagram
-4. Reverse String
-5. Max Number
-6. Minimum Number
-7. Second Largest Number
-8. Missing Number
-9. Divisible Three 
+2. Divisible By Five
+3. Checking Palindrome
+4. Anagram
+5. Reverse String
+6. Max Number
+7. Minimum Number
+8. Second Largest Number
+9. Missing Number
+10. Divisible Three 
 
 ## Language
 Python
