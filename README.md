@@ -12,7 +12,8 @@ My Python solutions to DSA problems🛜.
 7. Minimum Number
 8. Second Largest Number
 9. Missing Number
-10. Divisible Three 
+10. Divisible Three
+11. Finding Vowels 
 
 ## Language
 Python
