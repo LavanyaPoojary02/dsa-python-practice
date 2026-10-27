@@ -1,3 +1,5 @@
+#Target Number 
+
 def istarget(num,tgnum):
 	count=0
 	for nums in num:
