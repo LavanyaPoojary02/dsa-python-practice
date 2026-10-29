@@ -1,4 +1,4 @@
-# DSA Python Practice
+ DSA Python Practice
 
 My Python solutions to DSA problems🛜.
 
