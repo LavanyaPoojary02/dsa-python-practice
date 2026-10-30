@@ -1,4 +1,4 @@
-#Missig Number 
+#Missig Numbers
 def missingNumber(nums):
 	n=len(nums)
 	expected=n*(n+1)//2
