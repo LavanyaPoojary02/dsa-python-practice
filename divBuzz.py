@@ -1,4 +1,4 @@
-#Divisible By Five Number 
+#Divisible By Five Numbers
 
 def divFive(nums):
     for i in range(1, nums + 1):
