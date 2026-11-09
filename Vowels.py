@@ -1,3 +1,4 @@
+#Funding Vowels 
 def isVowels(word):
 	count=0
 	for ch in word:
